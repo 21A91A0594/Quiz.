@@ -17,5 +17,8 @@ This is a straightforward quiz application where users can answer questions and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/21A91A0594/quiz-app.git
    cd quiz-app
+
+   ![image](https://github.com/21A91A0594/Quiz./assets/100028554/664a2ef2-bc15-47aa-bd5e-f769a7b01d7a)
+
